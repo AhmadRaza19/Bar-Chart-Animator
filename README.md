@@ -6,3 +6,6 @@ application.cpp is used to run the program
 What I learned:
 -basic animation
 -pointers to pointers, 2d pointers
+
+CURRENTLY IN MAINTENANCE, TO DO:
+-QUESTIONS.TXT FILE
